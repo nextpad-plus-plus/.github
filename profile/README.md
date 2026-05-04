@@ -26,7 +26,7 @@
 
 ## About this organization
 
-This organization hosts the **first native port of [Notepad++](https://notepad-plus-plus.org) to macOS** — a full port of the original codebase, built to run as a first-class native Mac application. No Wine, no Porting Kit, no compatibility layer. Just Notepad++, on your Mac.
+This organization hosts the **native port of [Notepad++](https://notepad-plus-plus.org) to macOS** — a full port of the original codebase, built to run as a first-class native Mac application. No Wine, no Porting Kit, no compatibility layer. Just Nextpad++, on your Mac.
 
 Our goal isn't to make Notepad++ "run" on Mac. It's to make it feel like it *belongs* there — with native menus, shortcuts, dark mode, and system integration — while keeping everything developers love about the original.
 
