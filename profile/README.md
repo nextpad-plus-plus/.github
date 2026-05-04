@@ -4,9 +4,9 @@
   </a>
 </p>
 
-<h1 align="center">Notepad++ for macOS</h1>
+<h1 align="center">Nextpad++ for macOS</h1>
 
-<p align="center">The beloved source code and text editor, now running natively on your Mac.</p>
+<p align="center">Nextpad++ is an independent port of Notepad++ for Apple Silicon and Intel Macs, now running natively on your Mac. </p>
 
 <p align="center">
   <a href="https://notepad-plus-plus-mac.org/download/">Download</a> &middot;
@@ -58,7 +58,7 @@ Our goal isn't to make Notepad++ "run" on Mac. It's to make it feel like it *bel
 
 ## Credits
 
-Notepad++ for macOS is built directly upon the work of **[Don Ho](https://github.com/donho)**, the original author and principal developer of [Notepad++](https://notepad-plus-plus.org). For over two decades, Don has maintained Notepad++ as a free, open-source project loved by millions of developers. This port would not exist without his extraordinary work.
+Nextpad++ for macOS is built directly upon the work of **[Don Ho](https://github.com/donho)**, the original author and principal developer of [Notepad++](https://notepad-plus-plus.org). For over two decades, Don has maintained Notepad++ as a free, open-source project loved by millions of developers. This port would not exist without his extraordinary work.
 
 The macOS port is developed by **[Andrey Letov](https://github.com/aletik)** ([aletik.me](https://aletik.me)).
 
