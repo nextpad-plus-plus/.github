@@ -32,17 +32,41 @@ Our goal isn't to make Notepad++ "run" on Mac. It's to make it feel like it *bel
 
 ## Our projects
 
+### Core
+
 | Repository | Description |
 |---|---|
 | **[nextpad-plus-plus-macos](https://github.com/nextpad-plus-plus/nextpad-plus-plus-macos)** | The main app — full native port of Notepad++ to macOS |
 | **[nextpad-plus-plus.org](https://github.com/nextpad-plus-plus/nextpad-plus-plus.org)** | Source for the official project website |
-| **[nppPluginList](https://github.com/nextpad-plus-plus/nppPluginList)** | Plugin registry (ARM64 dylib plugins for the macOS port) |
-| **[ComparePlus](https://github.com/nextpad-plus-plus/ComparePlus)** | File comparison plugin, ported to macOS |
-| **[FoldingLineHider](https://github.com/nextpad-plus-plus/FoldingLineHider)** | Folding line hider plugin, ported to macOS |
-| **[indentbyfold](https://github.com/nextpad-plus-plus/indentbyfold)** | Indent-by-fold plugin, ported to macOS |
-| **[pork2sausage](https://github.com/nextpad-plus-plus/pork2sausage)** | Pork to Sausage plugin, ported to macOS |
-| **[qkNppReverseLines](https://github.com/nextpad-plus-plus/qkNppReverseLines)** | Reverse Lines plugin, ported to macOS |
-| **[nppURLPlugin](https://github.com/nextpad-plus-plus/nppURLPlugin)** | URL Encode/Decode plugin, ported to macOS |
+| **[nppPluginList](https://github.com/nextpad-plus-plus/nppPluginList)** | Plugin registry — universal (arm64 + x86_64) dylib plugins for the macOS port |
+
+### Ported plugins
+
+| Repository | Description |
+|---|---|
+| **[ComparePlus](https://github.com/nextpad-plus-plus/ComparePlus)** | File comparison — diff two documents side by side |
+| **[DoxyIt](https://github.com/nextpad-plus-plus/DoxyIt)** | Doxygen comment generator for C/C++/PHP/Python |
+| **[ElasticTabstops](https://github.com/nextpad-plus-plus/ElasticTabstops)** | Elastic tabstops — columns auto-align as you type |
+| **[FoldingLineHider](https://github.com/nextpad-plus-plus/FoldingLineHider)** | Visually hide the contents of folded code blocks |
+| **[indentbyfold](https://github.com/nextpad-plus-plus/indentbyfold)** | Auto-indent based on fold level — useful for nested structures |
+| **[JSON-Viewer](https://github.com/nextpad-plus-plus/JSON-Viewer)** | JSON syntax check, format, and tree view |
+| **[notepadpp_rpc](https://github.com/nextpad-plus-plus/notepadpp_rpc)** | Discord Rich Presence — show what you're editing |
+| **[NPP_ExportPlugin](https://github.com/nextpad-plus-plus/NPP_ExportPlugin)** | Export the current document to RTF or HTML, preserving syntax colors |
+| **[NppAIAssistant](https://github.com/nextpad-plus-plus/NppAIAssistant)** | In-editor AI assistant pane — chat with multiple LLMs side by side with the code |
+| **[nppAutoDetectIndent](https://github.com/nextpad-plus-plus/nppAutoDetectIndent)** | Detect and apply existing indentation style on file open |
+| **[NppBeads](https://github.com/nextpad-plus-plus/NppBeads)** | Beads issue tracker integration — view, create, and edit issues without leaving the editor |
+| **[nppfavorites](https://github.com/nextpad-plus-plus/nppfavorites)** | Favorites / bookmarks for files and folders |
+| **[NppLLM](https://github.com/nextpad-plus-plus/NppLLM)** | Send selected text to OpenAI / Claude / Ollama / LM Studio / Groq / OpenRouter / Azure / vLLM / LocalAI / AnythingLLM — wire-compatible with NppOpenAI |
+| **[NppMarkdownPanel](https://github.com/nextpad-plus-plus/NppMarkdownPanel)** | Live Markdown preview side panel with synced scrolling |
+| **[NppPluginOpenHost](https://github.com/nextpad-plus-plus/NppPluginOpenHost)** | One-click open of `/etc/hosts` (with sudo elevation as needed) |
+| **[nppQuickText](https://github.com/nextpad-plus-plus/nppQuickText)** | Tab-triggered text snippets / abbreviations expansion |
+| **[nppURLPlugin](https://github.com/nextpad-plus-plus/nppURLPlugin)** | URL encode / decode the current selection |
+| **[pork2sausage](https://github.com/nextpad-plus-plus/pork2sausage)** | Pork to Sausage — bulk text transformations on selection |
+| **[qkNppReverseLines](https://github.com/nextpad-plus-plus/qkNppReverseLines)** | Reverse the order of lines in the current selection |
+| **[selectquotedtext](https://github.com/nextpad-plus-plus/selectquotedtext)** | Select the text inside the nearest pair of quotes / brackets |
+| **[SelectToClipboard](https://github.com/nextpad-plus-plus/SelectToClipboard)** | Copy the current selection to clipboard with one shortcut |
+| **[XmlNavigator](https://github.com/nextpad-plus-plus/XmlNavigator)** | XML tree navigator side panel — jump between nodes |
+| **[xmltools](https://github.com/nextpad-plus-plus/xmltools)** | XML toolkit — validate, pretty-print, XPath, XSLT, schema check |
 
 ## Everything you love, on your Mac
 
