@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://notepad-plus-plus-mac.org/">
-    <img src="https://raw.githubusercontent.com/notepad-plus-plus-mac/notepad-plus-plus-mac.org/main/assets/images/screenshot3.png" alt="Notepad++ for macOS" width="800">
+  <a href="https://nextpad.org/">
+    <img src="https://raw.githubusercontent.com/nextpad-plus-plus/nextpad-plus-plus.org/main/assets/images/screenshot3.png" alt="Notepad++ for macOS" width="800">
   </a>
 </p>
 
@@ -9,11 +9,11 @@
 <p align="center">Nextpad++ is an independent port of Notepad++ for Apple Silicon and Intel Macs, now running natively on your Mac. </p>
 
 <p align="center">
-  <a href="https://notepad-plus-plus-mac.org/download/">Download</a> &middot;
-  <a href="https://notepad-plus-plus-mac.org/">Website</a> &middot;
-  <a href="https://github.com/notepad-plus-plus-mac/notepad-plus-plus-macos">Source</a> &middot;
-  <a href="https://notepad-plus-plus-mac.org/plugins/">Plugins</a> &middot;
-  <a href="https://notepad-plus-plus-mac.org/donate/">Donate</a>
+  <a href="https://nextpad.org/download/">Download</a> &middot;
+  <a href="https://nextpad.org/">Website</a> &middot;
+  <a href="https://github.com/nextpad-plus-plus/nextpad-plus-plus-macos">Source</a> &middot;
+  <a href="https://nextpad.org/plugins/">Plugins</a> &middot;
+  <a href="https://nextpad.org/donate/">Donate</a>
 </p>
 
 <p align="center">
@@ -34,15 +34,15 @@ Our goal isn't to make Notepad++ "run" on Mac. It's to make it feel like it *bel
 
 | Repository | Description |
 |---|---|
-| **[notepad-plus-plus-macos](https://github.com/notepad-plus-plus-mac/notepad-plus-plus-macos)** | The main app — full native port of Notepad++ to macOS |
-| **[notepad-plus-plus-mac.org](https://github.com/notepad-plus-plus-mac/notepad-plus-plus-mac.org)** | Source for the official project website |
-| **[nppPluginList](https://github.com/notepad-plus-plus-mac/nppPluginList)** | Plugin registry (ARM64 dylib plugins for the macOS port) |
-| **[ComparePlus](https://github.com/notepad-plus-plus-mac/ComparePlus)** | File comparison plugin, ported to macOS |
-| **[FoldingLineHider](https://github.com/notepad-plus-plus-mac/FoldingLineHider)** | Folding line hider plugin, ported to macOS |
-| **[indentbyfold](https://github.com/notepad-plus-plus-mac/indentbyfold)** | Indent-by-fold plugin, ported to macOS |
-| **[pork2sausage](https://github.com/notepad-plus-plus-mac/pork2sausage)** | Pork to Sausage plugin, ported to macOS |
-| **[qkNppReverseLines](https://github.com/notepad-plus-plus-mac/qkNppReverseLines)** | Reverse Lines plugin, ported to macOS |
-| **[nppURLPlugin](https://github.com/notepad-plus-plus-mac/nppURLPlugin)** | URL Encode/Decode plugin, ported to macOS |
+| **[nextpad-plus-plus-macos](https://github.com/nextpad-plus-plus/nextpad-plus-plus-macos)** | The main app — full native port of Notepad++ to macOS |
+| **[nextpad-plus-plus.org](https://github.com/nextpad-plus-plus/nextpad-plus-plus.org)** | Source for the official project website |
+| **[nppPluginList](https://github.com/nextpad-plus-plus/nppPluginList)** | Plugin registry (ARM64 dylib plugins for the macOS port) |
+| **[ComparePlus](https://github.com/nextpad-plus-plus/ComparePlus)** | File comparison plugin, ported to macOS |
+| **[FoldingLineHider](https://github.com/nextpad-plus-plus/FoldingLineHider)** | Folding line hider plugin, ported to macOS |
+| **[indentbyfold](https://github.com/nextpad-plus-plus/indentbyfold)** | Indent-by-fold plugin, ported to macOS |
+| **[pork2sausage](https://github.com/nextpad-plus-plus/pork2sausage)** | Pork to Sausage plugin, ported to macOS |
+| **[qkNppReverseLines](https://github.com/nextpad-plus-plus/qkNppReverseLines)** | Reverse Lines plugin, ported to macOS |
+| **[nppURLPlugin](https://github.com/nextpad-plus-plus/nppURLPlugin)** | URL Encode/Decode plugin, ported to macOS |
 
 ## Everything you love, on your Mac
 
@@ -65,6 +65,6 @@ The macOS port is developed by **[Andrey Letov](https://github.com/aletik)** ([a
 ---
 
 <p align="center">
-  Version 1.0.1 &middot; Apple Silicon & Intel &middot; macOS 11+<br>
+  Version 1.0.5 &middot; Apple Silicon & Intel &middot; macOS 11+<br>
   <a href="https://www.gnu.org/licenses/gpl-3.0.html">GPL-3.0 License</a>
 </p>
