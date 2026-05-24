@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://nextpad.org/">
-    <img src="https://raw.githubusercontent.com/nextpad-plus-plus/nextpad-plus-plus.org/main/assets/images/screenshot7.png" alt="Notepad++ for macOS" width="800">
+    <img src="https://raw.githubusercontent.com/nextpad-plus-plus/nextpad.org/main/assets/images/screenshot7.png" alt="Notepad++ for macOS" width="800">
   </a>
 </p>
 
@@ -37,7 +37,7 @@ Our goal isn't to make Notepad++ "run" on Mac. It's to make it feel like it *bel
 | Repository | Description |
 |---|---|
 | **[nextpad-plus-plus-macos](https://github.com/nextpad-plus-plus/nextpad-plus-plus-macos)** | The main app — full native port of Notepad++ to macOS |
-| **[nextpad-plus-plus.org](https://github.com/nextpad-plus-plus/nextpad-plus-plus.org)** | Source for the official project website |
+| **[nextpad-plus-plus.org](https://github.com/nextpad-plus-plus/nextpad.org)** | Source for the official project website |
 | **[nppPluginList](https://github.com/nextpad-plus-plus/nppPluginList)** | Plugin registry — universal (arm64 + x86_64) dylib plugins for the macOS port |
 
 ### Ported plugins
@@ -82,7 +82,7 @@ Our goal isn't to make Notepad++ "run" on Mac. It's to make it feel like it *bel
 
 ## Credits
 
-Nextpad++ for macOS is built directly upon the work of **[Don Ho](https://github.com/donho)**, the original author and principal developer of [Notepad++](https://notepad-plus-plus.org). For over two decades, Don has maintained Notepad++ as a free, open-source project loved by millions of developers. This port would not exist without his extraordinary work.
+Nextpad++ for macOS is built directly upon the work of **[Don Ho](https://github.com/donho)**, the original author and principal developer of [Notepad++](https://notepad.org). For over two decades, Don has maintained Notepad++ as a free, open-source project loved by millions of developers. This port would not exist without his extraordinary work.
 
 The macOS port is developed by **[Andrey Letov](https://github.com/aletik)** ([aletik.me](https://aletik.me)).
 
