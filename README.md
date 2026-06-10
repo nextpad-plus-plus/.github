@@ -6,7 +6,7 @@
 
 <h1 align="center">Notepad++ for macOS</h1>
 
-<p align="center">The beloved source code and text editor, now running natively on your Mac.</p>
+<p align="center">Nextpad++ a full open-source port of Notepad++ to Mac. <br>Starting from version 1.0.8 it will have more powerful features on macOS than Notepad++ on Windows.</p>
 
 <p align="center">
   <a href="https://notepad-plus-plus-mac.org/download/">Download for macOS</a> &middot;
