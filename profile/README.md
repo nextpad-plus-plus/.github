@@ -1,12 +1,20 @@
 <p align="center">
   <a href="https://nextpad.org/">
-    <img src="https://raw.githubusercontent.com/nextpad-plus-plus/nextpad.org/main/assets/images/screenshot7.png" alt="Notepad++ for macOS" width="800">
+    <img src="https://raw.githubusercontent.com/nextpad-plus-plus/nextpad.org/main/assets/images/screenshot7.png" alt="Notepad++ for macOS" width="1000">
+    <img src="https://raw.githubusercontent.com/nextpad-plus-plus/nextpad.org/main/assets/images/github_screen1.png" alt="Notepad++ for macOS" width="1000">
   </a>
 </p>
 
+
+<h1 align="center">Notepad++ for macOS</h1>
+
+<p align="center">Nextpad++ a full open-source port of Notepad++ to Mac. <br>Starting from version 1.0.8 it will have more powerful features on macOS than Notepad++ on Windows.</p>
+
+
+
 <h1 align="center">Nextpad++ for macOS</h1>
 
-<p align="center">Nextpad++ is an independent port of Notepad++ for Apple Silicon and Intel Macs, now running natively on your Mac. </p>
+<p align="center">Nextpad++ a full open-source native port of Notepad++ to Mac. <br>Starting from version 1.0.8 it will have more powerful features on macOS than Notepad++ on Windows.</p>
 
 <p align="center">
   <a href="https://nextpad.org/download/">Download</a> &middot;
