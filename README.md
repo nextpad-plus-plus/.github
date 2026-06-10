@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://notepad-plus-plus-mac.org/">
-    <img src="https://raw.githubusercontent.com/notepad-plus-plus-mac/notepad-plus-plus-mac.org/main/assets/images/screenshot3.png" alt="Notepad++ for macOS" width="800">
+    <img src="https://raw.githubusercontent.com/nextpad-plus-plus/nextpad.org/main/assets/images/screenshot3.png" alt="Notepad++ for macOS" width="800">
   </a>
 </p>
 
