@@ -1,14 +1,14 @@
 <p align="center">
   <a href="https://nextpad.org/">
     <img src="https://raw.githubusercontent.com/nextpad-plus-plus/nextpad.org/main/assets/images/screenshot7.png" alt="Notepad++ for macOS" width="780">
-    <img src="https://github.com/nextpad-plus-plus/nextpad.org/blob/main/news/npp_linux_v1.1.0_release/dark-mode.png" alt="Notepad++ for Linux" width="1000">
+    <img src="https://github.com/nextpad-plus-plus/nextpad.org/blob/main/news/npp_linux_v1.1.0_release/dark-mode.png" alt="Notepad++ for Linux" width="900">
     <img src="https://raw.githubusercontent.com/nextpad-plus-plus/nextpad.org/main/assets/images/github_screen1.png" alt="Notepad++ for macOS" width="1000">
   </a>
 </p>
 
-<h1 align="center">Nextpad++ for macOS</h1>
+<h1 align="center">Nextpad++ for macOS and Linux</h1>
 
-<p align="center">Nextpad++ a full open-source native port of Notepad++ to Mac. <br>Starting from version 1.0.8 it will have more powerful features on macOS than Notepad++ on Windows.</p>
+<p align="center">Nextpad++ a full open-source native port of Notepad++ to Mac and Linux. <br>Starting from version 1.0.8 it will have more powerful features on macOS than Notepad++ on Windows.</p>
 
 <p align="center">
   <a href="https://nextpad.org/download/">Download</a> &middot;
@@ -28,9 +28,9 @@
 
 ## About this organization
 
-This organization hosts the **native port of [Notepad++](https://notepad-plus-plus.org) to macOS** — a full port of the original codebase, built to run as a first-class native Mac application. No Wine, no Porting Kit, no compatibility layer. Just Nextpad++, on your Mac.
+This organization hosts the **native port of [Notepad++](https://notepad-plus-plus.org) to macOS and Linux** — a full parity port of the original codebase, built to run as a first-class native Mac and Linux application. No Wine, no Porting Kit, no Flatpak no compatibility layer. Just Nextpad++, on your Mac and Linux.
 
-Our goal isn't to make Notepad++ "run" on Mac. It's to make it feel like it *belongs* there — with native menus, shortcuts, dark mode, and system integration — while keeping everything developers love about the original.
+My goal isn't just to make Notepad++ "run" on Mac and Linux. It's to make it feel like it *belongs* there — with native menus, shortcuts, dark mode, and system integration — while keeping everything developers love about the original.
 
 ## Our projects
 
@@ -38,7 +38,7 @@ Our goal isn't to make Notepad++ "run" on Mac. It's to make it feel like it *bel
 
 | Repository | Description |
 |---|---|
-| **[nextpad-plus-plus-macos](https://github.com/nextpad-plus-plus/nextpad-plus-plus-macos)** | The main app — full native port of Notepad++ to macOS |
+| **[nextpad-plus-plus-macos](https://github.com/nextpad-plus-plus/nextpad-plus-plus-macos)** | The main app — full native port of Notepad++ to macOS and Linux |
 | **[nextpad-plus-plus.org](https://github.com/nextpad-plus-plus/nextpad.org)** | Source for the official project website |
 | **[nppPluginList](https://github.com/nextpad-plus-plus/nppPluginList)** | Plugin registry — universal (arm64 + x86_64) dylib plugins for the macOS port |
 
@@ -70,7 +70,7 @@ Our goal isn't to make Notepad++ "run" on Mac. It's to make it feel like it *bel
 | **[XmlNavigator](https://github.com/nextpad-plus-plus/XmlNavigator)** | XML tree navigator side panel — jump between nodes |
 | **[xmltools](https://github.com/nextpad-plus-plus/xmltools)** | XML toolkit — validate, pretty-print, XPath, XSLT, schema check |
 
-## Everything you love, on your Mac
+## Everything you love, on your Mac and Linux
 
 | | Feature | Description |
 |---|---|---|
@@ -84,13 +84,13 @@ Our goal isn't to make Notepad++ "run" on Mac. It's to make it feel like it *bel
 
 ## Credits
 
-Nextpad++ for macOS is built directly upon the work of **[Don Ho](https://github.com/donho)**, the original author and principal developer of [Notepad++](https://notepad.org). For over two decades, Don has maintained Notepad++ as a free, open-source project loved by millions of developers. This port would not exist without his extraordinary work.
+Nextpad++ for macOS and Linux is built directly upon the work of **[Don Ho](https://github.com/donho)**, the original author and principal developer of [Notepad++](https://notepad.org). For over two decades, Don has maintained Notepad++ as a free, open-source project loved by millions of developers. This port would not exist without his extraordinary work.
 
-The macOS port is developed by **[Andrey Letov](https://github.com/aletik)** ([aletik.me](https://aletik.me)).
+The macOS and Linux ports are developed and maintained by **[Andrew Letov](https://github.com/aletik)** ([aletik.me](https://aletik.me)).
 
 ---
 
 <p align="center">
-  Version 1.0.5 &middot; Apple Silicon & Intel &middot; macOS 11+<br>
+  Version 1.1.0 &middot; Apple Silicon & Intel &middot; macOS 11+; Ubuntu 24.04 LTS+, Debian 13, Fedora 40+, RHEL 10, openSUSE Leap 16 / Tumbleweed, Arch<br>
   <a href="https://www.gnu.org/licenses/gpl-3.0.html">GPL-3.0 License</a>
 </p>
