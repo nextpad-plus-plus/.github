@@ -1,11 +1,10 @@
 <p align="center">
   <a href="https://nextpad.org/">
-    <img src="https://raw.githubusercontent.com/nextpad-plus-plus/nextpad.org/main/news/npp_v1.1.0_updates/left-docked-panels.png" alt="Notepad++ for macOS" width="1000">
+    <img src="https://raw.githubusercontent.com/nextpad-plus-plus/nextpad.org/main/news/npp_v1.1.1_updates/bottom-docked-panels-dark.png" alt="Notepad++ for macOS" width="1000">
     <img src="https://github.com/nextpad-plus-plus/nextpad.org/blob/main/news/npp_linux_v1.1.0_release/dark-mode.png" alt="Notepad++ for Linux" width="800">
     <img src="https://raw.githubusercontent.com/nextpad-plus-plus/nextpad.org/main/news/npp_v1.0.8_updates/tahoe_look_beta.png" alt="Notepad++ for macOS" width="1000">
   </a>
 </p>
-
 <h1 align="center">Nextpad++ for macOS and Linux</h1>
 
 <p align="center">Nextpad++ a full open-source native port of Notepad++ to Mac and Linux. <br>Starting from version 1.0.8 it will have more powerful features on macOS than Notepad++ on Windows.</p>
